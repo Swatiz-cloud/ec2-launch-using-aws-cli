@@ -73,5 +73,3 @@ aws ec2 terminate-instances --instance-ids i-xxxxxxxxxxxxxxxxx
 - Use security groups that allow **port 22 (SSH)** from your IP or 0.0.0.0/0 (not recommended for production).
 - Always destroy unused resources to avoid charges.
 
-
-Would you like a ZIP file with all Terraform files ready to use?
